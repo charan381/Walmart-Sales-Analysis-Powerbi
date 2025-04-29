@@ -1,4 +1,4 @@
-# Walmart Sales Data Analysis using Power BI
+# Walmart Sales Analysis using Power BI
 
 ## About the Project
 This Power BI project focuses on analyzing Walmart’s sales data to derive valuable insights that can help improve business performance. The analysis will cover various aspects, including identifying high-performing branches and product lines, uncovering sales trends, understanding customer behavior, and providing actionable insights for optimizing sales strategies.
